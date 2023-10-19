@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Srivasan</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Include your CSS file here -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <!-- You can add a navigation menu here if needed -->
+    </header>
+
+    <main>
+        <section>
+            <h2>Home</h2>
+            <p>Upload your details</p>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <p>Digital Coding</p>
+        </section>
+
+        <section>
+            <h2>Help</h2>
+        </section>
+    
+    </main>
+    <section>
+        <h2></h2>
+    <p>contect me</p>
+    </section>
+    <footer>
+        <p>&copy; </p>
+    </footer>
+    
+    <script src="script.js"></script> <!-- Include your JavaScript file here -->
+</body>
+</html>
